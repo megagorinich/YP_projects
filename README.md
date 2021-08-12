@@ -15,14 +15,14 @@
 <tr>
 <td align="center">1</td>
 <td align="left"><a href="http://site.ru">Исследование надёжности заёмщиков</a></td>
-<td align="left">bar</td>
+<td align="left">На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок</td>
 <td align="left">bar</td>
 <td align="left">bar</td>
 </tr>
 <tr>
 <td align="center">2</td>
 <td align="left"><a href="http://site.ru">Исследование объявлений о продаже квартир</a></td>
-<td align="left">bar</td>
+<td align="left">Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир</td>
 <td align="left">bar</td>
 <td align="left">bar</td>
 </tr>
