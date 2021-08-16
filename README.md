@@ -29,9 +29,9 @@
 <tr>
 <td align="center">3</td>
 <td align="left"><a href="http://site.ru">Определение перспективного тарифа для телеком компании.</a></td>
-<td align="left"></td>
+<td align="left">На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа, приносящего наибольшую прибыль телеком компании.</td>
 <td align="left">Телеком</td>
-<td align="left"></td>
+<td align="left">Python, Pandas, Matplotlib, numpy, SciPy, описательная статистика, проверка статистических гипотез, mathSeaborn, sklearn, машинное обучение</td>
 </tr>
 <tr>
 <td align="center">4</td>
@@ -43,7 +43,7 @@
 <tr>
 <td align="center">5</td>
 <td align="left"><a href="http://site.ru">Рекомендация тарифов</a></td>
-<td align="left">На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа.</td>
+<td align="left">На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и построить модель для задачи классификации, которая выберет подходящий  клиенту тариф.</td>
 <td align="left">Телеком</td>
 <td align="left">Python, Pandas, Matplotlib, numpy, SciPy, описательная статистика, проверка статистических гипотез, mathSeaborn, sklearn, машинное обучение</td>
 </tr>
@@ -114,8 +114,8 @@
 <tr>
 <td align="center">15</td>
 <td align="left"><a href="http://site.ru">Прогнозирование температуры плавления стали для уменьшения энергозатрат</a></td>
-<td align="left">bar</td>
-<td align="left">bar</td>
-<td align="left">bar</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 </tbody></table>
