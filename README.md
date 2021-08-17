@@ -114,8 +114,9 @@
 <tr>
 <td align="center">15</td>
 <td align="left"><a href="http://site.ru">Прогнозирование температуры плавления стали для уменьшения энергозатрат</a></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">Построение модели предсказания температуры для оптимизации производственных расходов металлургического комбината.
+Цель: cнижение потребления электроэнергии на этапе обработки стали.</td>
+<td align="left">Отраслевые компании / Индустрия / Промышленность</td>
+<td align="left">NumPy, Pandas, Sklearn, MatPlotLib, Seaborn, Градиентный бустинг, СatBoost, LightGBM</td>
 </tr>
 </tbody></table>
