@@ -31,7 +31,7 @@
 <td align="left"><a href="https://github.com/megagorinich/YP_projects/tree/main/03%20Определение%20перспективного%20тарифа%20для%20телеком%20компании.">Определение перспективного тарифа для телеком компании.</a></td>
 <td align="left">На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа, приносящего наибольшую прибыль телеком компании.</td>
 <td align="left">Телеком</td>
-<td align="left">Python, Pandas, Matplotlib, numpy, SciPy, mathSeaborn, sklearn</td>
+<td align="left">Python, Pandas, Matplotlib, numpy, SciPy, math, Seaborn, sklearn</td>
 </tr>
 <tr>
 <td align="center">4</td>
