@@ -1,6 +1,4 @@
 # YP_projects
-Меня зовут Егор, я Data Scientist, со мной можно связаться, написав на почту katkov.96@inbox.ru
-
 Учебные проекты, выполненные за время обучения на курсе ["Специалист по Data Science" в Яндекс Практикум](https://practicum.yandex.ru/profile/data-scientist/).
 
 <table>
