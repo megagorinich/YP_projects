@@ -1,5 +1,7 @@
 # YP_projects
-Учебные проекты выполненные за время обучения на курсе ["Специалист по Data Science" в Яндекс Практикум](https://practicum.yandex.ru/profile/data-scientist/).
+Меня зовут Егор, со мной можно связаться, написав на почту katkov.96@inbox.ru
+
+Учебные проекты, выполненные за время обучения на курсе ["Специалист по Data Science" в Яндекс Практикум](https://practicum.yandex.ru/profile/data-scientist/).
 
 <table>
 <thead>
