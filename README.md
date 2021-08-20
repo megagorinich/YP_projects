@@ -45,7 +45,7 @@
 <td align="left"><a href="https://github.com/megagorinich/YP_projects/tree/main/05%20Рекомендация%20тарифов">Рекомендация тарифов</a></td>
 <td align="left">На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и построить модель для задачи классификации, которая выберет подходящий  клиенту тариф.</td>
 <td align="left">Телеком</td>
-<td align="left">Python, Pandas, Matplotlib, numpy, SciPy, mathSeaborn, sklearn</td>
+<td align="left">Python, Pandas, Matplotlib, numpy, SciPy, math, Seaborn, sklearn</td>
 </tr>
 <tr>
 <td align="center">6</td>
